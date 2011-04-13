@@ -1,0 +1,43 @@
+======================================================================
+The Kickoff Agenda Builder
+
+http://headscape.co.uk/kickoff/
+======================================================================
+
+Written and built by: 
+Paul Boag (http://headscape.co.uk/)
+
+GitHub repository maintained by:
+William Dodson (http://github.com/obxdesignworks)
+
+Released under Creative Commons license: 
+http://creativecommons.org/licenses/by-nc/3.0/
+
+For more details visit: 
+http://boagworld.com/business-strategy/kick-off/
+
+======================================================================
+
+Introducing The Kickoff Agenda Builder:
+
+A kick-off meeting is a crucial moment in any web project. However, 
+making sure you cover all of the bases can be challenging.
+
+Done right the kick-off meeting at project commencement can overcome 
+a lot of these issues. It can lay a solid groundwork for the project 
+ensuring that everybody is singing off of the same hymn sheet and 
+putting in place lines of communication that will last the 
+entire project.
+
+======================================================================
+
+Can You Improve It?:
+
+No doubt we have missed stuff so if you think of anything we should 
+include, feel free to fork this project and submit a pull request. 
+We fancy turning this into a proper web app that allows agendas to be 
+saved online for specific clients (SQLite or WebStorage, perhaps?). 
+We would love to merge your work here if you have something useful 
+to add.
+
+======================================================================

@@ -1,0 +1,7 @@
+# ======================================================================
+# .gitignore for Kickoff Agenda Generator
+# ======================================================================
+# Add file types and folders here that should not be versioned
+# ======================================================================
+# Ignore OS X .DS_Store files
+.DS\_Store
